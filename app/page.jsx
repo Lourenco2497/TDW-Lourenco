@@ -16,7 +16,7 @@ export default function Home() {
         <div className={styles.intro}>
           <h1>
             To get started, edit the{" "}
-            <code className={styles.code}>page.tsx</code> file.
+            <code className={styles.code}>page.jsx</code> file.
           </h1>
           <p>
             Eu acabei de editar isto na branch new-page, tem aqui links e tal em baixo{" "}
