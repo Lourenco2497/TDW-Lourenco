@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import o caralho de um passaro = 🐦
 
 export default function Home() {
   return (
@@ -65,5 +66,6 @@ export default function Home() {
         </div>
       </main>
     </div>
+    <lmaoXX>
   );
 }
